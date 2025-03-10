@@ -1,4 +1,4 @@
-##FizzBuzz
+#FizzBuzz
 1) Opened terminal and Text Mate
 2) Created subfolder called FizzBuzz inside itp
 3) Wrote code sketch using class notes
